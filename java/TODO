@@ -1,0 +1,6 @@
+# Objetivo
+
+Criar um Dockerfile para containezar a aplicação.
+
+- Requisitos Java 8
+- Porta 80
